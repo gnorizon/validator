@@ -1,0 +1,6 @@
+{
+    "version": "1.0.1",
+    "versionCode": 4,
+    "apkUrl": "https://app.tincitymetro.ng/.../metro-validator-v1.0.1-build4.apk",
+    "changelog": "Fixed NFC timeout issue"
+}
