@@ -1,6 +1,6 @@
 {
     "version": "1.0.1",
-    "versionCode": 4,
-    "apkUrl": "https://github.com/dunjil/validator/raw/main/metro-validator-v1.0.1-build4.apk",
+    "versionCode": 5,
+    "apkUrl": "https://github.com/dunjil/validator/raw/main/metro-validator-v1.0.1-build5.apk",
     "changelog": "Changed from Plateau Metro to Tin City Metro on splash screen"
 }
